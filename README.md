@@ -1,8 +1,6 @@
 [![mel-fihr's 42 stats](https://badge.mediaplus.ma/greenbinary/mel-fihr)](https://github.com/oakoudad/badge42)
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mel-fihr" alt="mel-fihr" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
